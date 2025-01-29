@@ -1,1 +1,2 @@
 # Flights-reservation-system
+Here the main.java contain Flight Booking System Code. So compile the Code in cmd by using "javac main.java". Then use "java main" in cmd. Remember the path of the main.java file where you have store it, then compile and run the file in cmd on that path.
